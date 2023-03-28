@@ -1,0 +1,134 @@
+.panda-heading{
+  margin-top: 50px;
+}
+.panda{
+  font-family: roboto;
+ font-size: 34.86px;
+  height: 40.81px;
+  color: #1F1F1F;
+  font-weight: 500;
+}
+.p-search{
+  flex-direction: row;
+align-items: flex-start;
+padding: 12px;
+gap: 390px;
+
+width: 508.94px;
+height: 48px;
+
+background: #F1F1F1;
+
+}
+.panda-nav a{
+  font-size: 16px;
+  color: #707070;
+  font-family: Poppins ;
+  width: 60px;
+flex: none;
+}
+.led-div{
+  background-color:#FEEAE9;
+  margin-top: 50px;
+}
+.led-div h1{
+height: 84px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 84px;
+color: #1F1F1F;
+
+}
+.led-div p{
+  width: 456px;
+height: 97px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #4E4E4E;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.led-div h2{
+  
+width: 112px;
+height: 62px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 41px;
+line-height: 62px;
+color: #FF136F;
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+.catagori{
+margin-top: 30px;
+}
+.led-div button{
+  background-color: #FF136F;
+  color: #F1F1F1;
+  padding: 14px 20px;
+gap: 10px;
+
+width: 168px;
+height: 52px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+}
+.watch{
+  height: 120px;
+  left: 0%;
+  right: 68.17%;
+  top: 0px;
+  font-size: 20px;
+  background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+  color: #F1F1F1;
+}
+.backpack{
+  height: 120px;
+left: 34.13%;
+right: 34.13%;
+top: 0px;
+color: #F1F1F1;
+font-size: 20px;
+background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.shoe{
+height: 120px;
+left: 68.17%;
+right: 0%;
+top: 0px;
+color: #F1F1F1;
+font-size: 20px;
+
+background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+
+}
+.card-div{
+  margin-top: 30px;
+}
+.card-div h1{
+  text-align: left;
+}
+.card-1{
+  box-shadow: 0px 0px 10px #00000052;
+  border-radius: 10px;
+}
+.email{
+  padding: 100px;
+}
+.email-div{
+ margin-top: 30px;
+}
